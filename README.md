@@ -1,3 +1,16 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="right">
+    <img src="sankey/sankey.svg" alt="Logo" width="175" height="194">
+  </a>
+
+  <h3 align="center">Daniel Graham Delafield</h3>
+
+  <p align="center">
+    Welcome to my GitHub!
+  </p>
+</p>
+
 # Citrullination ETL
 Repository for code and datafiles associated with Nature Communications Manuscript (citation to come)
 
