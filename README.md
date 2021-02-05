@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="right">
-    <img src="sankey/sankey.svg" alt="Logo" width="175" height="194">
+    <img src="sankey/Original.png" alt="Logo" width="175" height="194">
   </a>
 
   <h3 align="center">Daniel Graham Delafield</h3>
