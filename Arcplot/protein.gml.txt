@@ -1,0 +1,819 @@
+Creator "igraph version 0.6 Wed Jan 30 10:28:57 2013"
+Version 1
+graph
+[
+  directed 0
+  node
+  [
+    id 0
+    label "Bcortex"
+    group 0
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 1
+    label "Cerebellum"
+    group 1
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 2
+    label "Hypothalamus"
+    group 2
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 3
+    label "Medulla"
+    group 3
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 4
+    label "Scortex"
+    group 4
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 5
+    label "Liver"
+    group 5
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 6
+    label "Heart"
+    group 6
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 7
+    label "Lung"
+    group 7
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 8
+    label "Kidney"
+    group 8
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 9
+    label "Pancreas"
+    group 9
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  node
+  [
+    id 10
+    label "Spleen"
+    group 10
+    fill "#BEBADA"
+    border "#aba7c4"
+  ]
+  edge
+  [
+    source 0
+    target 0
+    value 16 
+  ]
+  edge
+  [
+    source 0
+    target 1
+    value 196 
+  ]
+  edge
+  [
+    source 0
+    target 2
+    value 209 
+  ]
+  edge
+  [
+    source 0
+    target 3
+    value 179 
+  ]
+  edge
+  [
+    source 0
+    target 4
+    value 220 
+  ]
+  edge
+  [
+    source 0
+    target 5
+    value 49 
+  ]
+  edge
+  [
+    source 0
+    target 6
+    value 62 
+  ]
+  edge
+  [
+    source 0
+    target 7
+    value 51 
+  ]
+  edge
+  [
+    source 0
+    target 8
+    value 66 
+  ]
+  edge
+  [
+    source 0
+    target 9
+    value 46 
+  ]
+  edge
+  [
+    source 0
+    target 10
+    value 41 
+  ]
+  edge
+  [
+    source 1
+    target 0
+    value 196 
+  ]
+  edge
+  [
+    source 1
+    target 1
+    value 16 
+  ]
+  edge
+  [
+    source 1
+    target 2
+    value 194 
+  ]
+  edge
+  [
+    source 1
+    target 3
+    value 169 
+  ]
+  edge
+  [
+    source 1
+    target 4
+    value 194 
+  ]
+  edge
+  [
+    source 1
+    target 5
+    value 49 
+  ]
+  edge
+  [
+    source 1
+    target 6
+    value 63 
+  ]
+  edge
+  [
+    source 1
+    target 7
+    value 52 
+  ]
+  edge
+  [
+    source 1
+    target 8
+    value 69 
+  ]
+  edge
+  [
+    source 1
+    target 9
+    value 39 
+  ]
+  edge
+  [
+    source 1
+    target 10
+    value 40 
+  ]
+  edge
+  [
+    source 2
+    target 0
+    value 209 
+  ]
+  edge
+  [
+    source 2
+    target 1
+    value 194 
+  ]
+  edge
+  [
+    source 2
+    target 2
+    value 10 
+  ]
+  edge
+  [
+    source 2
+    target 3
+    value 186 
+  ]
+  edge
+  [
+    source 2
+    target 4
+    value 210 
+  ]
+  edge
+  [
+    source 2
+    target 5
+    value 49 
+  ]
+  edge
+  [
+    source 2
+    target 6
+    value 69 
+  ]
+  edge
+  [
+    source 2
+    target 7
+    value 49 
+  ]
+  edge
+  [
+    source 2
+    target 8
+    value 67 
+  ]
+  edge
+  [
+    source 2
+    target 9
+    value 43 
+  ]
+  edge
+  [
+    source 2
+    target 10
+    value 41 
+  ]
+  edge
+  [
+    source 3
+    target 0
+    value 179 
+  ]
+  edge
+  [
+    source 3
+    target 1
+    value 169 
+  ]
+  edge
+  [
+    source 3
+    target 2
+    value 186 
+  ]
+  edge
+  [
+    source 3
+    target 3
+    value 8 
+  ]
+  edge
+  [
+    source 3
+    target 4
+    value 179 
+  ]
+  edge
+  [
+    source 3
+    target 5
+    value 49 
+  ]
+  edge
+  [
+    source 3
+    target 6
+    value 62 
+  ]
+  edge
+  [
+    source 3
+    target 7
+    value 47 
+  ]
+  edge
+  [
+    source 3
+    target 8
+    value 65 
+  ]
+  edge
+  [
+    source 3
+    target 9
+    value 40 
+  ]
+  edge
+  [
+    source 3
+    target 10
+    value 40 
+  ]
+  edge
+  [
+    source 4
+    target 0
+    value 220 
+  ]
+  edge
+  [
+    source 4
+    target 1
+    value 194 
+  ]
+  edge
+  [
+    source 4
+    target 2
+    value 210 
+  ]
+  edge
+  [
+    source 4
+    target 3
+    value 179 
+  ]
+  edge
+  [
+    source 4
+    target 4
+    value 6 
+  ]
+  edge
+  [
+    source 4
+    target 5
+    value 46 
+  ]
+  edge
+  [
+    source 4
+    target 6
+    value 64 
+  ]
+  edge
+  [
+    source 4
+    target 7
+    value 47 
+  ]
+  edge
+  [
+    source 4
+    target 8
+    value 66 
+  ]
+  edge
+  [
+    source 4
+    target 9
+    value 40 
+  ]
+  edge
+  [
+    source 4
+    target 10
+    value 39 
+  ]
+  edge
+  [
+    source 5
+    target 0
+    value 49 
+  ]
+  edge
+  [
+    source 5
+    target 1
+    value 49 
+  ]
+  edge
+  [
+    source 5
+    target 2
+    value 49 
+  ]
+  edge
+  [
+    source 5
+    target 3
+    value 49 
+  ]
+  edge
+  [
+    source 5
+    target 4
+    value 46 
+  ]
+  edge
+  [
+    source 5
+    target 5
+    value 37 
+  ]
+  edge
+  [
+    source 5
+    target 6
+    value 46 
+  ]
+  edge
+  [
+    source 5
+    target 7
+    value 42 
+  ]
+  edge
+  [
+    source 5
+    target 8
+    value 78 
+  ]
+  edge
+  [
+    source 5
+    target 9
+    value 50 
+  ]
+  edge
+  [
+    source 5
+    target 10
+    value 46 
+  ]
+  edge
+  [
+    source 6
+    target 0
+    value 62 
+  ]
+  edge
+  [
+    source 6
+    target 1
+    value 63 
+  ]
+  edge
+  [
+    source 6
+    target 2
+    value 69 
+  ]
+  edge
+  [
+    source 6
+    target 3
+    value 62 
+  ]
+  edge
+  [
+    source 6
+    target 4
+    value 64 
+  ]
+  edge
+  [
+    source 6
+    target 5
+    value 46 
+  ]
+  edge
+  [
+    source 6
+    target 6
+    value 34 
+  ]
+  edge
+  [
+    source 6
+    target 7
+    value 41 
+  ]
+  edge
+  [
+    source 6
+    target 8
+    value 65 
+  ]
+  edge
+  [
+    source 6
+    target 9
+    value 32 
+  ]
+  edge
+  [
+    source 6
+    target 10
+    value 35 
+  ]
+  edge
+  [
+    source 7
+    target 0
+    value 51 
+  ]
+  edge
+  [
+    source 7
+    target 1
+    value 52 
+  ]
+  edge
+  [
+    source 7
+    target 2
+    value 49 
+  ]
+  edge
+  [
+    source 7
+    target 3
+    value 47 
+  ]
+  edge
+  [
+    source 7
+    target 4
+    value 47 
+  ]
+  edge
+  [
+    source 7
+    target 5
+    value 42 
+  ]
+  edge
+  [
+    source 7
+    target 6
+    value 41 
+  ]
+  edge
+  [
+    source 7
+    target 7
+    value 20 
+  ]
+  edge
+  [
+    source 7
+    target 8
+    value 47 
+  ]
+  edge
+  [
+    source 7
+    target 9
+    value 36 
+  ]
+  edge
+  [
+    source 7
+    target 10
+    value 53 
+  ]
+  edge
+  [
+    source 8
+    target 0
+    value 66 
+  ]
+  edge
+  [
+    source 8
+    target 1
+    value 69 
+  ]
+  edge
+  [
+    source 8
+    target 2
+    value 67 
+  ]
+  edge
+  [
+    source 8
+    target 3
+    value 65 
+  ]
+  edge
+  [
+    source 8
+    target 4
+    value 66 
+  ]
+  edge
+  [
+    source 8
+    target 5
+    value 78 
+  ]
+  edge
+  [
+    source 8
+    target 6
+    value 65 
+  ]
+  edge
+  [
+    source 8
+    target 7
+    value 47 
+  ]
+  edge
+  [
+    source 8
+    target 8
+    value 20 
+  ]
+  edge
+  [
+    source 8
+    target 9
+    value 41 
+  ]
+  edge
+  [
+    source 8
+    target 10
+    value 42 
+  ]
+  edge
+  [
+    source 9
+    target 0
+    value 46 
+  ]
+  edge
+  [
+    source 9
+    target 1
+    value 39 
+  ]
+  edge
+  [
+    source 9
+    target 2
+    value 43 
+  ]
+  edge
+  [
+    source 9
+    target 3
+    value 40 
+  ]
+  edge
+  [
+    source 9
+    target 4
+    value 40 
+  ]
+  edge
+  [
+    source 9
+    target 5
+    value 50 
+  ]
+  edge
+  [
+    source 9
+    target 6
+    value 32 
+  ]
+  edge
+  [
+    source 9
+    target 7
+    value 36 
+  ]
+  edge
+  [
+    source 9
+    target 8
+    value 41 
+  ]
+  edge
+  [
+    source 9
+    target 9
+    value 69 
+  ]
+  edge
+  [
+    source 9
+    target 10
+    value 57 
+  ]
+  edge
+  [
+    source 10
+    target 0
+    value 41 
+  ]
+  edge
+  [
+    source 10
+    target 1
+    value 40 
+  ]
+  edge
+  [
+    source 10
+    target 2
+    value 41 
+  ]
+  edge
+  [
+    source 10
+    target 3
+    value 40 
+  ]
+  edge
+  [
+    source 10
+    target 4
+    value 39 
+  ]
+  edge
+  [
+    source 10
+    target 5
+    value 46 
+  ]
+  edge
+  [
+    source 10
+    target 6
+    value 35 
+  ]
+  edge
+  [
+    source 10
+    target 7
+    value 53 
+  ]
+  edge
+  [
+    source 10
+    target 8
+    value 42 
+  ]
+  edge
+  [
+    source 10
+    target 9
+    value 57 
+  ]
+  edge
+  [
+    source 10
+    target 10
+    value 9 
+  ]]

@@ -1,0 +1,5 @@
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 355 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 407 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 619 total proteins
+Group: "Uniport PTM but not Citrullinated" has 253 total proteins
+Group: "No Prior PTM in Uniprot" has 366 total proteins
