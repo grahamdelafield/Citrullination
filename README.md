@@ -1,7 +1,7 @@
 # Citrullination ETL
 
 <img src="https://github.com/grahamdelafield/Citrullination/blob/main/Sankey/Original.png" align="right"
-     alt="Colorwheel" width="200" height="200">
+     alt="Sankey">
      
 Repository for code and datafiles associated with Nature Communications Manuscript (citation to come)
 
