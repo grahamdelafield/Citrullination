@@ -95,725 +95,725 @@ graph
   [
     source 0
     target 0
-    value 34 
+    value 19 
   ]
   edge
   [
     source 0
     target 1
-    value 343 
+    value 195 
   ]
   edge
   [
     source 0
     target 2
-    value 358 
+    value 221 
   ]
   edge
   [
     source 0
     target 3
-    value 303 
+    value 193 
   ]
   edge
   [
     source 0
     target 4
-    value 376 
+    value 220 
   ]
   edge
   [
     source 0
     target 5
-    value 61 
+    value 29 
   ]
   edge
   [
     source 0
     target 6
-    value 90 
+    value 55 
   ]
   edge
   [
     source 0
     target 7
-    value 69 
+    value 39 
   ]
   edge
   [
     source 0
     target 8
-    value 88 
+    value 42 
   ]
   edge
   [
     source 0
     target 9
-    value 51 
+    value 40 
   ]
   edge
   [
     source 0
     target 10
-    value 49 
-  ]
-  edge
-  [
-    source 1
-    target 0
-    value 343 
-  ]
-  edge
-  [
-    source 1
-    target 1
     value 29 
   ]
   edge
   [
     source 1
+    target 0
+    value 201 
+  ]
+  edge
+  [
+    source 1
+    target 1
+    value 7 
+  ]
+  edge
+  [
+    source 1
     target 2
-    value 333 
+    value 205 
   ]
   edge
   [
     source 1
     target 3
-    value 289 
+    value 178 
   ]
   edge
   [
     source 1
     target 4
-    value 332 
+    value 204 
   ]
   edge
   [
     source 1
     target 5
-    value 63 
+    value 36 
   ]
   edge
   [
     source 1
     target 6
-    value 94 
+    value 57 
   ]
   edge
   [
     source 1
     target 7
-    value 72 
+    value 41 
   ]
   edge
   [
     source 1
     target 8
-    value 99 
-  ]
-  edge
-  [
-    source 1
-    target 9
     value 46 
   ]
   edge
   [
     source 1
-    target 10
-    value 51 
-  ]
-  edge
-  [
-    source 2
-    target 0
-    value 358 
-  ]
-  edge
-  [
-    source 2
-    target 1
-    value 333 
-  ]
-  edge
-  [
-    source 2
-    target 2
-    value 22 
-  ]
-  edge
-  [
-    source 2
-    target 3
-    value 330 
-  ]
-  edge
-  [
-    source 2
-    target 4
-    value 368 
-  ]
-  edge
-  [
-    source 2
-    target 5
-    value 66 
-  ]
-  edge
-  [
-    source 2
-    target 6
-    value 101 
-  ]
-  edge
-  [
-    source 2
-    target 7
-    value 68 
-  ]
-  edge
-  [
-    source 2
-    target 8
-    value 93 
-  ]
-  edge
-  [
-    source 2
     target 9
-    value 55 
+    value 33 
   ]
   edge
   [
-    source 2
+    source 1
     target 10
-    value 52 
-  ]
-  edge
-  [
-    source 3
-    target 0
-    value 303 
-  ]
-  edge
-  [
-    source 3
-    target 1
-    value 289 
-  ]
-  edge
-  [
-    source 3
-    target 2
-    value 330 
-  ]
-  edge
-  [
-    source 3
-    target 3
     value 30 
   ]
   edge
   [
+    source 2
+    target 0
+    value 214 
+  ]
+  edge
+  [
+    source 2
+    target 1
+    value 198 
+  ]
+  edge
+  [
+    source 2
+    target 2
+    value 7 
+  ]
+  edge
+  [
+    source 2
+    target 3
+    value 205 
+  ]
+  edge
+  [
+    source 2
+    target 4
+    value 224 
+  ]
+  edge
+  [
+    source 2
+    target 5
+    value 32 
+  ]
+  edge
+  [
+    source 2
+    target 6
+    value 62 
+  ]
+  edge
+  [
+    source 2
+    target 7
+    value 39 
+  ]
+  edge
+  [
+    source 2
+    target 8
+    value 45 
+  ]
+  edge
+  [
+    source 2
+    target 9
+    value 39 
+  ]
+  edge
+  [
+    source 2
+    target 10
+    value 34 
+  ]
+  edge
+  [
+    source 3
+    target 0
+    value 191 
+  ]
+  edge
+  [
+    source 3
+    target 1
+    value 182 
+  ]
+  edge
+  [
+    source 3
+    target 2
+    value 213 
+  ]
+  edge
+  [
+    source 3
+    target 3
+    value 7 
+  ]
+  edge
+  [
     source 3
     target 4
-    value 307 
+    value 200 
   ]
   edge
   [
     source 3
     target 5
-    value 59 
+    value 38 
   ]
   edge
   [
     source 3
     target 6
-    value 83 
+    value 54 
   ]
   edge
   [
     source 3
     target 7
-    value 64 
+    value 38 
   ]
   edge
   [
     source 3
     target 8
-    value 85 
-  ]
-  edge
-  [
-    source 3
-    target 9
     value 48 
   ]
   edge
   [
     source 3
-    target 10
-    value 46 
-  ]
-  edge
-  [
-    source 4
-    target 0
-    value 376 
-  ]
-  edge
-  [
-    source 4
-    target 1
-    value 332 
-  ]
-  edge
-  [
-    source 4
-    target 2
-    value 368 
-  ]
-  edge
-  [
-    source 4
-    target 3
-    value 307 
-  ]
-  edge
-  [
-    source 4
-    target 4
-    value 22 
-  ]
-  edge
-  [
-    source 4
-    target 5
-    value 60 
-  ]
-  edge
-  [
-    source 4
-    target 6
-    value 92 
-  ]
-  edge
-  [
-    source 4
-    target 7
-    value 67 
-  ]
-  edge
-  [
-    source 4
-    target 8
-    value 91 
-  ]
-  edge
-  [
-    source 4
-    target 9
-    value 49 
-  ]
-  edge
-  [
-    source 4
-    target 10
-    value 49 
-  ]
-  edge
-  [
-    source 5
-    target 0
-    value 61 
-  ]
-  edge
-  [
-    source 5
-    target 1
-    value 63 
-  ]
-  edge
-  [
-    source 5
-    target 2
-    value 66 
-  ]
-  edge
-  [
-    source 5
-    target 3
-    value 59 
-  ]
-  edge
-  [
-    source 5
-    target 4
-    value 60 
-  ]
-  edge
-  [
-    source 5
-    target 5
-    value 72 
-  ]
-  edge
-  [
-    source 5
-    target 6
-    value 59 
-  ]
-  edge
-  [
-    source 5
-    target 7
-    value 53 
-  ]
-  edge
-  [
-    source 5
-    target 8
-    value 102 
-  ]
-  edge
-  [
-    source 5
-    target 9
-    value 61 
-  ]
-  edge
-  [
-    source 5
-    target 10
-    value 53 
-  ]
-  edge
-  [
-    source 6
-    target 0
-    value 90 
-  ]
-  edge
-  [
-    source 6
-    target 1
-    value 94 
-  ]
-  edge
-  [
-    source 6
-    target 2
-    value 101 
-  ]
-  edge
-  [
-    source 6
-    target 3
-    value 83 
-  ]
-  edge
-  [
-    source 6
-    target 4
-    value 92 
-  ]
-  edge
-  [
-    source 6
-    target 5
-    value 59 
-  ]
-  edge
-  [
-    source 6
-    target 6
-    value 98 
-  ]
-  edge
-  [
-    source 6
-    target 7
-    value 60 
-  ]
-  edge
-  [
-    source 6
-    target 8
-    value 97 
-  ]
-  edge
-  [
-    source 6
     target 9
     value 38 
   ]
   edge
   [
+    source 3
+    target 10
+    value 32 
+  ]
+  edge
+  [
+    source 4
+    target 0
+    value 220 
+  ]
+  edge
+  [
+    source 4
+    target 1
+    value 200 
+  ]
+  edge
+  [
+    source 4
+    target 2
+    value 230 
+  ]
+  edge
+  [
+    source 4
+    target 3
+    value 203 
+  ]
+  edge
+  [
+    source 4
+    target 4
+    value 3 
+  ]
+  edge
+  [
+    source 4
+    target 5
+    value 29 
+  ]
+  edge
+  [
+    source 4
+    target 6
+    value 58 
+  ]
+  edge
+  [
+    source 4
+    target 7
+    value 37 
+  ]
+  edge
+  [
+    source 4
+    target 8
+    value 43 
+  ]
+  edge
+  [
+    source 4
+    target 9
+    value 36 
+  ]
+  edge
+  [
+    source 4
+    target 10
+    value 30 
+  ]
+  edge
+  [
+    source 5
+    target 0
+    value 37 
+  ]
+  edge
+  [
+    source 5
+    target 1
+    value 38 
+  ]
+  edge
+  [
+    source 5
+    target 2
+    value 42 
+  ]
+  edge
+  [
+    source 5
+    target 3
+    value 39 
+  ]
+  edge
+  [
+    source 5
+    target 4
+    value 36 
+  ]
+  edge
+  [
+    source 5
+    target 5
+    value 26 
+  ]
+  edge
+  [
+    source 5
+    target 6
+    value 35 
+  ]
+  edge
+  [
+    source 5
+    target 7
+    value 31 
+  ]
+  edge
+  [
+    source 5
+    target 8
+    value 51 
+  ]
+  edge
+  [
+    source 5
+    target 9
+    value 32 
+  ]
+  edge
+  [
+    source 5
+    target 10
+    value 24 
+  ]
+  edge
+  [
+    source 6
+    target 0
+    value 56 
+  ]
+  edge
+  [
+    source 6
+    target 1
+    value 61 
+  ]
+  edge
+  [
+    source 6
+    target 2
+    value 67 
+  ]
+  edge
+  [
+    source 6
+    target 3
+    value 58 
+  ]
+  edge
+  [
+    source 6
+    target 4
+    value 60 
+  ]
+  edge
+  [
+    source 6
+    target 5
+    value 30 
+  ]
+  edge
+  [
+    source 6
+    target 6
+    value 35 
+  ]
+  edge
+  [
+    source 6
+    target 7
+    value 35 
+  ]
+  edge
+  [
+    source 6
+    target 8
+    value 47 
+  ]
+  edge
+  [
+    source 6
+    target 9
+    value 24 
+  ]
+  edge
+  [
     source 6
     target 10
-    value 45 
+    value 28 
   ]
   edge
   [
     source 7
     target 0
-    value 69 
+    value 54 
   ]
   edge
   [
     source 7
     target 1
-    value 72 
+    value 58 
   ]
   edge
   [
     source 7
     target 2
-    value 68 
+    value 59 
   ]
   edge
   [
     source 7
     target 3
-    value 64 
-  ]
-  edge
-  [
-    source 7
-    target 4
-    value 67 
-  ]
-  edge
-  [
-    source 7
-    target 5
     value 53 
   ]
   edge
   [
     source 7
+    target 4
+    value 52 
+  ]
+  edge
+  [
+    source 7
+    target 5
+    value 32 
+  ]
+  edge
+  [
+    source 7
     target 6
-    value 60 
+    value 55 
   ]
   edge
   [
     source 7
     target 7
-    value 36 
+    value 21 
   ]
   edge
   [
     source 7
     target 8
-    value 60 
+    value 30 
   ]
   edge
   [
     source 7
     target 9
-    value 44 
+    value 30 
   ]
   edge
   [
     source 7
     target 10
-    value 72 
+    value 41 
   ]
   edge
   [
     source 8
     target 0
-    value 88 
+    value 52 
   ]
   edge
   [
     source 8
     target 1
-    value 99 
+    value 57 
   ]
   edge
   [
     source 8
     target 2
-    value 93 
-  ]
-  edge
-  [
-    source 8
-    target 3
-    value 85 
-  ]
-  edge
-  [
-    source 8
-    target 4
-    value 91 
-  ]
-  edge
-  [
-    source 8
-    target 5
-    value 102 
-  ]
-  edge
-  [
-    source 8
-    target 6
-    value 97 
-  ]
-  edge
-  [
-    source 8
-    target 7
     value 60 
   ]
   edge
   [
     source 8
-    target 8
+    target 3
+    value 56 
+  ]
+  edge
+  [
+    source 8
+    target 4
+    value 51 
+  ]
+  edge
+  [
+    source 8
+    target 5
+    value 51 
+  ]
+  edge
+  [
+    source 8
+    target 6
+    value 56 
+  ]
+  edge
+  [
+    source 8
+    target 7
     value 34 
   ]
   edge
   [
     source 8
+    target 8
+    value 13 
+  ]
+  edge
+  [
+    source 8
     target 9
-    value 49 
+    value 32 
   ]
   edge
   [
     source 8
     target 10
-    value 54 
+    value 31 
   ]
   edge
   [
     source 9
     target 0
-    value 51 
+    value 43 
   ]
   edge
   [
     source 9
     target 1
-    value 46 
+    value 40 
   ]
   edge
   [
     source 9
     target 2
-    value 55 
+    value 45 
   ]
   edge
   [
     source 9
     target 3
-    value 48 
+    value 42 
   ]
   edge
   [
     source 9
     target 4
-    value 49 
+    value 39 
   ]
   edge
   [
     source 9
     target 5
-    value 61 
+    value 31 
   ]
   edge
   [
     source 9
     target 6
-    value 38 
+    value 28 
   ]
   edge
   [
     source 9
+    target 7
+    value 35 
+  ]
+  edge
+  [
+    source 9
+    target 8
+    value 29 
+  ]
+  edge
+  [
+    source 9
+    target 9
+    value 85 
+  ]
+  edge
+  [
+    source 9
+    target 10
+    value 42 
+  ]
+  edge
+  [
+    source 10
+    target 0
+    value 34 
+  ]
+  edge
+  [
+    source 10
+    target 1
+    value 34 
+  ]
+  edge
+  [
+    source 10
+    target 2
+    value 41 
+  ]
+  edge
+  [
+    source 10
+    target 3
+    value 37 
+  ]
+  edge
+  [
+    source 10
+    target 4
+    value 35 
+  ]
+  edge
+  [
+    source 10
+    target 5
+    value 24 
+  ]
+  edge
+  [
+    source 10
+    target 6
+    value 30 
+  ]
+  edge
+  [
+    source 10
     target 7
     value 44 
   ]
   edge
   [
-    source 9
-    target 8
-    value 49 
-  ]
-  edge
-  [
-    source 9
-    target 9
-    value 131 
-  ]
-  edge
-  [
-    source 9
-    target 10
-    value 70 
-  ]
-  edge
-  [
-    source 10
-    target 0
-    value 49 
-  ]
-  edge
-  [
-    source 10
-    target 1
-    value 51 
-  ]
-  edge
-  [
-    source 10
-    target 2
-    value 52 
-  ]
-  edge
-  [
-    source 10
-    target 3
-    value 46 
-  ]
-  edge
-  [
-    source 10
-    target 4
-    value 49 
-  ]
-  edge
-  [
-    source 10
-    target 5
-    value 53 
-  ]
-  edge
-  [
-    source 10
-    target 6
-    value 45 
-  ]
-  edge
-  [
-    source 10
-    target 7
-    value 72 
-  ]
-  edge
-  [
     source 10
     target 8
-    value 54 
+    value 27 
   ]
   edge
   [
     source 10
     target 9
-    value 70 
+    value 57 
   ]
   edge
   [
     source 10
     target 10
-    value 17 
+    value 7 
   ]]
