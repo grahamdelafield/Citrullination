@@ -13,8 +13,8 @@ def read_protein_file(filename, sheet_name, flag=True):
     file = pd.ExcelFile(filename)
     df = pd.DataFrame()
     for sheet in file.sheet_names:
-        if sheet=='Summary':
-            sub = pd.read_excel(filename, sheet_name=sheet, usecols=[3]).dropna()
+        if sheet=='All IDs':
+            sub = pd.read_excel(filename, sheet_name=sheet, usecols=[1]).dropna()
         else:
             sub = pd.read_excel(filename, sheet_name=sheet, usecols=[1]).dropna()
         sub.columns = [sheet]
@@ -63,7 +63,7 @@ def get_proteins(dataframe):
 
        attributes: dataframe (type:pd.dataframe)"""
 
-    all_proteins = dataframe.Summary.tolist()
+    all_proteins = dataframe['All IDs'].tolist()
     return all_proteins
 
 
@@ -76,7 +76,7 @@ def parse_regions(dataframe):
 
     brain_regions = [col for col in dataframe.iloc[:, 1:6]]
     organs = [col for col in dataframe if col not in brain_regions
-              and col != "Summary"]
+              and col != "All IDs"]
     return brain_regions, organs
 
 
@@ -238,6 +238,7 @@ def unique(df, columns):
     columns.append(all_c)
     output = []
     for group in columns:
+        print(group)
         k = g[l.index(len(group))]
         sub = df.loc[:, group]
         sub = sub.melt()
@@ -311,9 +312,10 @@ def plot_site_overlap(filename, sheet_name):
 
 
 def main():
-    protein_df = read_protein_file('../Tissue-specific Cit IDs.xlsx', 'Summary')
+    protein_df = read_protein_file('../Tissue-specific Cit IDs.xlsx', 'All IDs')
     print(protein_df)
     brain_regions, organs = parse_regions(protein_df)
+    print(brain_regions, organs)
     ud = unique(protein_df, [brain_regions, organs])
     go_query = parse_GO_file('./Citrullinated_Uniprot.tab')
     count_dict = create_count_dict(protein_df, brain_regions, organs)
