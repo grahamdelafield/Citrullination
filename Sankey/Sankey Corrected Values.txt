@@ -6,4 +6,56 @@ Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cere
 Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
 Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
 Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
+Group: "No Prior PTM in Uniprot" has 247 total proteinsGroup: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex']" has 242 total proteins
+Group: "['Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 286 total proteins
+Group: "['Bcortex', 'Cerebellum', 'Hypothalamus', 'Medulla', 'Scortex', 'Liver', 'Heart', 'Lung', 'Kidney', 'Pancreas', 'Spleen']" has 432 total proteins
+Group: "Uniprot PTM but not Citrullinated" has 185 total proteins
 Group: "No Prior PTM in Uniprot" has 247 total proteins
