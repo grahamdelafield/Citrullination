@@ -14,9 +14,9 @@ def read_protein_file(filename, sheet_name, flag=True):
     df = pd.DataFrame()
     for sheet in file.sheet_names:
         if sheet=='All IDs':
-            sub = pd.read_excel(filename, sheet_name=sheet, usecols=[1]).dropna()
+            sub = pd.read_excel(filename, sheet_name=sheet, usecols=[0]).dropna()
         else:
-            sub = pd.read_excel(filename, sheet_name=sheet, usecols=[1]).dropna()
+            sub = pd.read_excel(filename, sheet_name=sheet, usecols=[0]).dropna()
         sub.columns = [sheet]
         if df.empty:
             df = sub
@@ -51,7 +51,7 @@ def parse_GO_file(filename, sep='\t'):
         # elif re.search(pattern, item):
         #     previous_report.append("Reported as Citrullinated")
         else:
-            previous_report.append("Uniport PTM but not Citrullinated")
+            previous_report.append("Uniprot PTM but not Citrullinated")
 
     go_query.loc[:, "Previous_report"] = pd.Series(previous_report)
     return go_query
@@ -225,7 +225,7 @@ def plot_sankey(sankey_dataframe, filename, save=True):
     sankey = hv.Sankey(sankey_dataframe, label='Citrulinated Proteins')
     sankey.opts(label_position='right', edge_color='target', node_color='index', cmap='tab20c')
     if save:
-        hv.save(sankey, filename+'.png')
+        # hv.save(sankey, filename+'.png')
         hv.save(sankey, filename+'.svg')
 
 def unique(df, columns):
@@ -255,9 +255,11 @@ def unique(df, columns):
 
 
 
-def corrected_values(go_df, unique_dict):
+def corrected_values(go_df, protein_df, unique_dict):
+    sliced_go = go_df[go_df.Entry.isin(protein_df['All IDs'])]
+    print('sliced', len(sliced_go))
     d = {}
-    for item in go_df.Previous_report.tolist():
+    for item in sliced_go.Previous_report.tolist():
         if item not in d:
             d[item] = 1
         else:
@@ -317,14 +319,17 @@ def main():
     brain_regions, organs = parse_regions(protein_df)
     print(brain_regions, organs)
     ud = unique(protein_df, [brain_regions, organs])
+    print('UD', ud)
     go_query = parse_GO_file('./Citrullinated_Uniprot.tab')
+    # go_query.to_csv('GO.csv')
     count_dict = create_count_dict(protein_df, brain_regions, organs)
     print(count_dict)
-    corrected = corrected_values(go_query, ud)
+    corrected = corrected_values(go_query, protein_df, ud)
     print(corrected)
     prop_sank = prop_sankey(brain_regions, organs, count_dict, corrected, protein_df, go_query)
     or_sank = orig_sankey(protein_df, brain_regions, organs,
                                    count_dict, go_query)
+
     plot_sankey(prop_sank, 'Proportional')
     plot_sankey(or_sank, 'Original')
 
